@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Piano App - Grupo 11</string>
+    <string name="tecla_Do">Do</string>
+    <string name="tecla_Re">Re</string>
+    <string name="tecla_Mi">Mi</string>
+    <string name="tecla_Fa">Fa</string>
+    <string name="tecla_So">So</string>
+    <string name="tecla_La">La</string>
+    <string name="tecla_Si">Si</string>
+    <string name="logo">TODO</string>
+    <string name="logo_unicaes">logo</string>
+    <string name="integrantes">Integrantes:</string>
+    <string name="titulo">Piano App - Grupo#11</string>
+    <string name="alumno1">Guillermo Antonio Arévalo Herrera</string>
+    <string name="alumno2">Italo</string>
+    <string name="alumno3">Fraile</string>
+    <string name="alumno4">Aldo</string>
+    <string name="marca">UNICAES@2022</string>
+    <string name="desc_oso">desc_oso</string>
+    <string name="desc_leon">desc_leon</string>
+    <string name="desc_mono">desc_mono</string>
+    <string name="desc_serpiente">desc_serpiente</string>
+    <string name="desc_tucan">desc_tucan</string>
+    <string name="desc_vaca">desc_vaca</string>
+    <string name="desc_elefante">desc_elefante</string>
+    <string name="desc_bongo">desc_bongo</string>
+    <string name="desc_guitarra">desc_guitarra</string>
+    <string name="desc_maraca">desc_maraca</string>
+    <string name="desc_platillo">desc_platillo</string>
+    <string name="desc_tambor">desc_tambor</string>
+    <string name="desc_trompeta">desc_trompeta</string>
+    <string name="desc_violin">desc_violin</string>
+    <string name="splash_Titulo">Piano APP</string>
+</resources>

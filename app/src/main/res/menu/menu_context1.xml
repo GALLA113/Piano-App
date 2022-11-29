@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/diffPiano"
+        android:orderInCategory="5"
+        android:title="Cambiar piano"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/aboutUs"
+        android:orderInCategory="10"
+        android:title="Acerca de"
+        app:showAsAction="collapseActionView" />
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="15"
+        android:title="Salir de la app"
+        app:showAsAction="collapseActionView" />
+</menu>
